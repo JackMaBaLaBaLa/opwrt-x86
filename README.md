@@ -1,3 +1,5 @@
+需同时修改.config和.github/workflows/里面对应的yml文件。仅包含opX86和AC2100。同时两个地方只能同时存在一套脚本，另一套脚本不能以.config和yml结尾
+----------------------------------------------------------------------------------------
 **English** | [中文](https://p3terx.com/archives/build-openwrt-with-github-actions.html)
 
 # Actions-OpenWrt
